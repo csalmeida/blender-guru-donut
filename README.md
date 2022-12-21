@@ -10,4 +10,4 @@ It includes:
 - A `/references_images` folder with images that were used to make the donut.
 - A `render` folder which includes all the frames and video files of exported work.
 
-![Final Render](render/blender_guru_donut0000-0300.mp4)
+[Final Render](https://user-images.githubusercontent.com/12223613/208931239-52d739ba-4673-42fb-9b02-2d37a43590a8.mp4)
